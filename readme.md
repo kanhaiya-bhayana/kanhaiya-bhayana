@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Bhayana</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
+<a href="https://app.daily.dev/Bhayana"><img src="https://api.daily.dev/devcards/633205a9e19645a6b2ab6408df48c115.png?r=m94" width="400" alt="Kanhaiya's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiya-bhayana&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiya-bhayana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiya-bhayana" alt="kanhaiya-bhayana" /></a> </p>
