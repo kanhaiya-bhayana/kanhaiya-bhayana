@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html5,css,js,php,mysql,mern**
 
-- 📫 How to reach me **kanhaiyabhayana1@gmail.com**
+- 📫 How to reach me **ikanhaiyabhayana@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
