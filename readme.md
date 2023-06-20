@@ -1,17 +1,17 @@
 <p align="center"><tt>Hola 👋, I'm Kanhaiya Bhayana!</tt></p>
-<p align="center"><tt>A Passionate Web Developer from India!</tt></p>
+<p align="center"><tt>A Passionate Developer from India!</tt></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiya-bhayana&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiya-bhayana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiya-bhayana" alt="kanhaiya-bhayana" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning project**
+- 🔭 I’m currently working on **DotNet Core and Microservices**
 
-- 🌱 I’m currently learning **reactnative**
+- 🌱 I’m currently learning **Azure**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 💬 Ask me about **html5,css,js,php,mysql,mern**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **contact@kanhaiya.dev**
 
