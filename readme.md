@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **contact@kanhaiya.dev**
+- 📫 How to reach me **ikanhaiyabhayana@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
