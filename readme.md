@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DotNet Core and Microservices**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 Azure Developer **Associate**
 
 - 👯 I’m looking to collaborate on **open source**
 
